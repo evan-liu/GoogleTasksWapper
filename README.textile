@@ -1,0 +1,3 @@
+h2. Google Task desktop wrapper using Adobe AIR
+
+It's a light version of Google Tasks in "https://mail.google.com/tasks/ig":https://mail.google.com/tasks/ig instead of "Christian Cantrell":http://blogs.adobe.com/cantrell/ 's canvas version in "https://mail.google.com/tasks/canvas":https://mail.google.com/tasks/canvas. Choose the one fit you.
