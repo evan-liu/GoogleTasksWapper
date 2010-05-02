@@ -1,3 +1,5 @@
 h2. Google Task desktop wrapper using Adobe AIR
 
 It's a light version of Google Tasks using "https://mail.google.com/tasks/ig":https://mail.google.com/tasks/ig instead of "Christian Cantrell":http://blogs.adobe.com/cantrell/ 's "canvas version":http://blogs.adobe.com/cantrell/archives/2009/12/google_tasks_on_your_desktop.html using "https://mail.google.com/tasks/canvas":https://mail.google.com/tasks/canvas. Choose the one fit you.
+
+"Online Install":http://eidiot.net/en/2010/05/02/google-tasks-wapper-of-ig-version/
